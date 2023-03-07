@@ -21,3 +21,11 @@ function longestString(strArr: string[]): string {
 console.log(longestString(["hej", "hejhej", "hejhejhej", "hejhejhejhej"]));
 
 // 3. 
+
+function countingChars (str: string): string {
+  let mostUsed = "";
+
+  // fyll i logiken här.
+
+  return mostUsed;
+}
