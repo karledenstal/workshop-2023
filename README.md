@@ -17,6 +17,12 @@ Ni har 1.5 timme på er att lösa så många utmaningar ni kan, och därefter s�
 - Ni behöver inte hinna med alla utmaningar.
 - Ni får göra utmaningarna i vilken ordning ni vill.
 
+## Tips
+
+- Läs igenom instruktionerna för varje utmaning.
+- Läs igenom koden som finns i `start.ts` filerna.
+- Kör mobbprogrammering eller använd något som Live Share i VSCode.
+
 ## Starta
 
 ```bash
