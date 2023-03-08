@@ -2,7 +2,7 @@
 
 Denna lilla workshop erbjuder en mängd olika utmaningar att lösas i grupp. De går ifrån 0-3, där 0 är lite mer av uppvärmningsövningar och 1-4 lite mer avancerade. 
 
-Lösningarna är upp till er och alla övningar kan lösas på olika sätt, så känn inte att ni måste hitta en specifikt "rätt" lösning, men försök gärna att skriva så effektiv kod som möjligt och använd er av all de verktyg som finns tillgängliga i modern vanilla javascript.
+Lösningarna är upp till er och alla övningar kan lösas på olika sätt, så känn inte att ni måste hitta en specifik "rätt" lösning, men försök gärna att skriva så effektiv kod som möjligt och använd er av all de verktyg som finns tillgängliga i modern vanilla javascript.
 
 ## Tid
 
