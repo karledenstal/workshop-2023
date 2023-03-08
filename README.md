@@ -11,7 +11,7 @@ Ni har 1.5 timme på er att lösa så många utmaningar ni kan, och därefter s�
 ## Riktlinjer
 
 - Allt ska vara skrivet i typescript, dvs parametrar och returvärden ska vara tydligt definierade.
-- All kod per utmaning ska vara skrivet i `start.ts` filen.
+- All kod per utmaning ska vara skrivet i respektive `start.ts` fil.
 - Ni får skriva om all kod ni blivit given eller tänka om den.
 - Ni får inte lägga till några paket eller bibliotek.
 - Ni behöver inte hinna med alla utmaningar.
