@@ -7,7 +7,8 @@
     "c:0": "nodemon ./challenge-0/start.ts",
     "c:1": "nodemon ./challenge-1/start.ts",
     "c:2": "nodemon ./challenge-2/start.ts",
-    "c:3": "nodemon ./challenge-3/start.ts"
+    "c:3": "nodemon ./challenge-3/start.ts",
+    "c:4": "nodemon ./challenge-4/start.ts"
   },
   "keywords": [],
   "author": "",
