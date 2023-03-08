@@ -15,6 +15,7 @@ Ni har 1.5 timme på er att lösa så många utmaningar ni kan, och därefter s�
 - Ni får skriva om all kod ni blivit given eller tänka om den.
 - Ni får inte lägga till några paket eller bibliotek.
 - Ni behöver inte hinna med alla utmaningar.
+- Ni får göra utmaningarna i vilken ordning ni vill.
 
 ## Starta
 
