@@ -6,7 +6,7 @@ Lösningarna är upp till er och alla övningar kan lösas på olika sätt, så 
 
 ## Tid
 
-Ni har 1.5 timmar på er att lösa så många utmaningar ni kan, och därefter så samlas vi en snabbis för att gå igenom om det är någon som vill visa upp några lösningar och diskutera dessa. Eftersom allt kan lösas på tänkbara olika sätt så kommer det inte finnas någon "rätt" lösning, utan det är upp till er att diskutera och komma fram till vad ni tycker är bäst.
+Ni har 1.5 timme på er att lösa så många utmaningar ni kan, och därefter så samlas vi en snabbis för att gå igenom om det är någon som vill visa upp några lösningar och diskutera dessa. Eftersom allt kan lösas på tänkbara olika sätt så kommer det inte finnas någon "rätt" lösning, utan det är upp till er att diskutera och komma fram till vad ni tycker är bäst.
 
 ## Riktlinjer
 
